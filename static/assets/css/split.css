@@ -108,21 +108,21 @@ a:hover {
   }
 }
 html {
-  background-color: #061C30;
+  background-color: #ddcdb5;
 }
 
 body.page-template-page-fullsingle-split {
-  background-color: #061C30;
-  font-family: "Montserrat", sans-serif;
+  background-color: #ddcdb5; /*061C30*/
+  font-family: "Didot", serif;/*"Montserrat", sans-serif;*/
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
   letter-spacing: -0.2px;
-  color: #848d96;
+  color: #000000;
   animation: fadein 2s;
 }
 body.page-template-page-fullsingle-split p {
-  color: #848d96;
+  color: #000000;
 }
 
 .fs-split {
@@ -191,10 +191,10 @@ body.page-template-page-fullsingle-split p {
   line-height: 16px;
   margin-bottom: 40px;
   letter-spacing: 0.4px;
-  color: #47bec7;
+  color: #000000;
 }
 .split-intro .tagline {
-  color: #CCCCCC;
+  color: #000000;
 }
 
 .split-bio {
